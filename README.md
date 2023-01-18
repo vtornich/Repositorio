@@ -3,5 +3,5 @@
 > Status do projeto: em desenvolvimento
 
 ---
-node.js
+node app.js
 ---
